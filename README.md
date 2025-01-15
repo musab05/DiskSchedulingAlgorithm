@@ -2,15 +2,6 @@
 
 This repository contains implementations of various disk scheduling algorithms in Java. Disk scheduling algorithms are used by operating systems to manage the order in which disk I/O requests are processed. Efficient scheduling can significantly improve the performance of the system.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Algorithms Implemented](#algorithms-implemented)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Disk scheduling algorithms determine the order in which disk access requests are serviced. In this project, we have implemented several well-known disk scheduling algorithms in Java.
