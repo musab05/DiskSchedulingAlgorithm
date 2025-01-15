@@ -27,17 +27,3 @@ You need to have Java installed on your machine. You can download it from [here]
     ```sh
     git clone https://github.com/musab05/DiskSchedulingAlgorithm.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd DiskSchedulingAlgorithm
-    ```
-3. Compile the Java files:
-    ```sh
-    javac *.java
-    ```
-
-## Usage
-
-To run a specific disk scheduling algorithm, use the following command:
-```sh
-java [AlgorithmName] [parameters]
